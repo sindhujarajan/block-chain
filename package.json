@@ -1,0 +1,19 @@
+{
+  "name": "pet-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "solc": "^0.4.17",
+    "truffle": "^5.1.27"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "scripts": {
+    "test": "mocha",
+    "dev": "lite-server"
+  },
+  "author": "",
+  "license": "ISC"
+}

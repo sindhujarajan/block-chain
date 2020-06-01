@@ -1,0 +1,2 @@
+truffle install issues solved:
+https://ethereum.stackexchange.com/questions/37296/i-cant-run-truffle-commands-in-powershell-ise
